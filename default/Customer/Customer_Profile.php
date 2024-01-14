@@ -1,6 +1,7 @@
 <?php
 session_start();
 // include_once "../head.php";
+
 include_once "customer.php";
 include_once "../Sales/Sales.php";
 
